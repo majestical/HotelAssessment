@@ -1,0 +1,9 @@
+C:\Users\Matt\documents\visual studio 2013\Projects\HotelAssessment\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\Matt\documents\visual studio 2013\Projects\HotelAssessment\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\Matt\documents\visual studio 2013\Projects\HotelAssessment\UnitTestProject1\bin\Debug\HotelAssessment.exe
+C:\Users\Matt\documents\visual studio 2013\Projects\HotelAssessment\UnitTestProject1\bin\Debug\EntityFramework.dll
+C:\Users\Matt\documents\visual studio 2013\Projects\HotelAssessment\UnitTestProject1\bin\Debug\HotelAssessment.pdb
+C:\Users\Matt\documents\visual studio 2013\Projects\HotelAssessment\UnitTestProject1\bin\Debug\EntityFramework.xml
+C:\Users\Matt\documents\visual studio 2013\Projects\HotelAssessment\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\Matt\documents\visual studio 2013\Projects\HotelAssessment\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\Matt\documents\visual studio 2013\Projects\HotelAssessment\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

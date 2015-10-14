@@ -1,0 +1,12 @@
+C:\Users\Matt\documents\visual studio 2013\Projects\HotelAssessment\UnitTestProject2\bin\Debug\UnitTestProject2.dll
+C:\Users\Matt\documents\visual studio 2013\Projects\HotelAssessment\UnitTestProject2\bin\Debug\UnitTestProject2.pdb
+C:\Users\Matt\documents\visual studio 2013\Projects\HotelAssessment\UnitTestProject2\bin\Debug\HotelAssessment.exe
+C:\Users\Matt\documents\visual studio 2013\Projects\HotelAssessment\UnitTestProject2\bin\Debug\EntityFramework.dll
+C:\Users\Matt\documents\visual studio 2013\Projects\HotelAssessment\UnitTestProject2\bin\Debug\HotelAssessment.pdb
+C:\Users\Matt\documents\visual studio 2013\Projects\HotelAssessment\UnitTestProject2\bin\Debug\EntityFramework.xml
+C:\Users\Matt\documents\visual studio 2013\Projects\HotelAssessment\UnitTestProject2\obj\Debug\UnitTestProject2.csprojResolveAssemblyReference.cache
+C:\Users\Matt\documents\visual studio 2013\Projects\HotelAssessment\UnitTestProject2\obj\Debug\UnitTestProject2.dll
+C:\Users\Matt\documents\visual studio 2013\Projects\HotelAssessment\UnitTestProject2\obj\Debug\UnitTestProject2.pdb
+C:\Users\Matt\Documents\Visual Studio 2013\Projects\HotelAssessment\UnitTestProject2\bin\Debug\UnitTestProject2.dll.config
+C:\Users\Matt\Documents\Visual Studio 2013\Projects\HotelAssessment\UnitTestProject2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Matt\Documents\Visual Studio 2013\Projects\HotelAssessment\UnitTestProject2\bin\Debug\EntityFramework.SqlServer.xml
